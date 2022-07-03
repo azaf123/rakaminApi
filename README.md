@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About Our Project
+
+#ada 2 data yaitu data artikel dan data category 
+#dimana untuk mengakses aplikasi ini php artisan serve atau menggunakan XAMPP 
+#Saya menyediakan halaman landing page dengan cara public/
+#dihalaman landing page ada 2 data yaitu data artikel dan data category 
+#dihalaman landing page juga saya menyediakan register dan login pag
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
